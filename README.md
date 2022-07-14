@@ -29,7 +29,7 @@
   - Teorias da Adminsitação
   - Comunicação Organizacional e Raciocínio
 
-## Como analista desenvolvedor, trabalho com:
+## Como analista e desenvolvedor, trabalho com:
 
 > **Linguagens**
   
