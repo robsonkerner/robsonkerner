@@ -1,6 +1,6 @@
-<img align='right' src="https://img.shields.io/static/v1?label=Overview&logoColor=red&labelColor=282a36&message=ROBSON KERNER&color=red&style=for-the-badge&logo=GitHub">
+<img align='right' src="https://img.shields.io/static/v1?label=Overview&logoColor=sliver&labelColor=282a36&message=ROBSON SANTOS&color=silver&style=for-the-badge&logo=GitHub">
 
-## Olá, eu sou **Robson Kerner**!
+## Olá, eu sou **Robson Kerner Coelho dos Santos**!
 
   - Docente, Gerente de Projetos, Analista de Sistemas e Desenvolvedor.
   - Mais de 20 anos atuando no setor de educação.
@@ -10,24 +10,30 @@
 
 ⚠️ (repositórios serão disponibilizados em breve)
   - Algorítmo e Lógica de Programação
-  - Técnicas de Programação
-  - Estrutura de Dados
-  - Engenharia de Software
-  - Sistemas Operacionais
-  - Redes de Computadores e Internet das Coisas
+  - Análise e Projeto de Sistemas
   - Banco de Dados
-  - Gestão de Projetos
-  - Programação Orientada a Objetos
+  - Comunicação Organizacional e Raciocínio
+  - Cultura Digital
   - Desenvolvimento de Aplicação Mobile
   - Desenvolvimento de Aplicações para Internet
+  - Engenharia de Software
+  - Estrutura de Dados
   - Interface Homem-Máquina
-  - Análise e Projeto de Sistemas
+  - Gestão da Informação
+  - Gestão de Projetos
+  - Gestão dos Sistemas de Informação
+  - Gestão Estratégica 
   - Linguagens de Programação
-  - Gestão Estratégica
-  - Gestão dos Sistemas de Informção
+  - Negócio Eletrônico
   - Organização, Sistemas e Métodos
-  - Teorias da Adminsitação
-  - Comunicação Organizacional e Raciocínio
+  - Pesquisa em Administração
+  - Programação Orientada a Objetos
+  - Programação para WEB
+  - Projetos Interdisciplinares
+  - Redes de Computadores e Internet das Coisas
+  - Sistemas Operacionais
+  - Técnicas de Programação
+  - Teorias da Administação
 
 ## Como analista e desenvolvedor, trabalho com:
 
