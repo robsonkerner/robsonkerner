@@ -4,7 +4,7 @@
 
   - Docente, Gerente de Projetos, Analista de Sistemas e Desenvolvedor.
   - Mais de 20 anos atuando no setor de educação.
-  - Mestrando em Gestão e Desenvolvimento Regional.
+  - Mestre em Gestão e Desenvolvimento Regional.
 
 ## Como docente, leciono os seguintes conteúdos:
 
