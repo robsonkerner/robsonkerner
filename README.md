@@ -1,5 +1,3 @@
-<img align='right' src="https://img.shields.io/static/v1?label=Overview&logoColor=sliver&labelColor=282a36&message=ROBSON SANTOS&color=silver&style=for-the-badge&logo=GitHub">
-
 ## Olá, eu sou **Robson Kerner Coelho dos Santos**!
 
   - Docente, Gerente de Projetos, Analista de Sistemas e Desenvolvedor.
@@ -17,12 +15,15 @@
   - Desenvolvimento de Aplicação Mobile
   - Desenvolvimento de Aplicações para Internet
   - Engenharia de Software
+  - Estratégias Avançada e Projetos
   - Estrutura de Dados
-  - Interface Homem-Máquina
+  - Interface/Interação Homem-Máquina
   - Gestão da Informação
+  - Gestão de Negócios e Inovação
   - Gestão de Projetos
   - Gestão dos Sistemas de Informação
-  - Gestão Estratégica 
+  - Gestão Estratégica
+  - Governança em Tecnologia da Informação
   - Linguagens de Programação
   - Negócio Eletrônico
   - Organização, Sistemas e Métodos
@@ -30,9 +31,14 @@
   - Programação Orientada a Objetos
   - Programação para WEB
   - Projetos Interdisciplinares
+  - Projetos Integradores Extensionistas
   - Redes de Computadores e Internet das Coisas
+  - Segurança Cibernética
   - Sistemas Operacionais
+  - Sociedade e Organizações
   - Técnicas de Programação
+  - Tecnologias e Projetos Educacionais
+  - Tecnologias na Sala de Aula
   - Teorias da Administação
 
 ## Como analista e desenvolvedor, trabalho com:
