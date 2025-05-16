@@ -1,4 +1,4 @@
-<img align='right' src="https://img.shields.io/static/v1?label=Overview&logoColor=sliver&labelColor=282a36&message=ROBSON SANTOS&color=silver&style=for-the-badge&logo=GitHub">
+<img align='right' src="https://img.shields.io/static/v1?label=Overview&logoColor=silver&labelColor=282a36&message=ROBSON%20SANTOS&color=silver&style=for-the-badge&logo=GitHub">
 
 ## Olá, eu sou **Robson Kerner Coelho dos Santos**!
 
@@ -11,29 +11,50 @@
 ⚠️ (repositórios serão disponibilizados em breve)
   - Algorítmo e Lógica de Programação
   - Análise e Projeto de Sistemas
+  - Arquitetura e Organização de Computadores
   - Banco de Dados
+  - Ciências Sociais Aplicadas
   - Comunicação Organizacional e Raciocínio
   - Cultura Digital
   - Desenvolvimento de Aplicação Mobile
   - Desenvolvimento de Aplicações para Internet
+  - Design Thinking e Sturtups
   - Engenharia de Software
+  - Estratégias Avançadas e Projetos
+  - Estratégias de Marketing
   - Estrutura de Dados
+  - Estrutura de Gerenciamento Estratégico de Projeto
+  - Interação Homem-Computdor
   - Interface Homem-Máquina
   - Gestão da Informação
+  - Gestão de Marketing
+  - Gestão de Negócios e Inovação
   - Gestão de Projetos
+  - Gestão de Projetos Ágeis
   - Gestão dos Sistemas de Informação
-  - Gestão Estratégica 
+  - Gestão Estratégica
+  - Govenança em Tecnologia da Inforação com o Cobit
+  - Introdução a Algoritmos e Programação Web
+  - Investigação e Produção
   - Linguagens de Programação
   - Negócio Eletrônico
   - Organização, Sistemas e Métodos
   - Pesquisa em Administração
+  - Prática de Formação: Tecnologias e Projetos Educacionais
+  - Prática de Formação: Tecnologias em Sala de Aula
   - Programação Orientada a Objetos
   - Programação para WEB
   - Projetos Interdisciplinares
+  - Projetos Integradores Extensionistas
   - Redes de Computadores e Internet das Coisas
+  - Redes e Internet das Coisas
   - Sistemas Operacionais
+  - Segurança Cibernética
+  - Sociedade e Organizações
   - Técnicas de Programação
-  - Teorias da Administação
+  - Teorias da Administração
+  - Teorias da Administração Aplicada
+  - Tópicos Integradores
 
 ## Como analista e desenvolvedor, trabalho com:
 
@@ -60,6 +81,7 @@
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-blue?style=flat&logo=androidstudio&logoColor=white)
   ![Ionic](https://img.shields.io/badge/-Ionic-blue?style=flat&logo=ionic&logoColor=white)
   ![Trello](https://img.shields.io/badge/-Trello-blue?style=flat&logo=trello&logoColor=white)
+  
 
 > **CMS** e **LMS**
 
