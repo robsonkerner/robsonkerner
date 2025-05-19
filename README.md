@@ -66,6 +66,7 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-blue?style=flat&logo=HTML5&logoColor=white)
   ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=CSS3&logoColor=white)
   ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql&logoColor=white)
+  ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white)
 
 > **DevOps e Ambientes**
 
