@@ -47,7 +47,6 @@
   - Projetos Interdisciplinares
   - Projetos Integradores Extensionistas
   - Redes de Computadores e Internet das Coisas
-  - Redes e Internet das Coisas
   - Sistemas Operacionais
   - Segurança Cibernética
   - Sociedade e Organizações
