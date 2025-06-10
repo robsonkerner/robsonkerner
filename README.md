@@ -100,8 +100,8 @@
 > **Redes Sociais**
 
   [![](https://img.shields.io/badge/-LinkedIn-darkgreen?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robsonkerner/)
-  [![](https://img.shields.io/badge/-Facebook-darkgreen?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/robsonkerner/)
-  [![](https://img.shields.io/badge/-Instagram-darkgreen?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/robsonkerner/)
+  [![](https://img.shields.io/badge/-Facebook-darkgreen?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/robson.kerner/)
+  [![](https://img.shields.io/badge/-Instagram-darkgreen?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/robson.kerner/)
   [![](https://img.shields.io/badge/-X%20\[Twitter\]-darkgreen?style=flat&logo=x&logoColor=white)](https://twitter.com/robsonkerner/)
   
 > **Pesquisa** 
